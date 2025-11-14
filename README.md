@@ -8,7 +8,7 @@
 
 - 💼 I'm an **AP Accountant** and a **Ganiour Front-End Engineer**.  
 - 📘 I’m always learning and exploring new technologies to improve my skills.  
-- 💬 Ask me about **Python, HTML, C++, AP Cycle,gavascript ,Returns, Matching, and Web Development**.  
+- 💬 Ask me about **Python, HTML, C++, JavaScript, Java, AP Cycle, Returns, Matching, and Web Development**.  
 - ☕ Fun fact: I love coffee, and coding with coffee hits different 😄.
 
 ---
@@ -29,11 +29,28 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
+
+  <!-- Python -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+  <!-- HTML -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+  <!-- C++ -->
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
+
+  <!-- Java -->
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+
+  <!-- Visual Studio Code -->
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+  <!-- Frontend -->
   <img src="https://img.shields.io/badge/Frontend-4CAF50?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Javascript?style=for-the-badge&logo=html5&logoColor=white"/>
+
 </p>
 
 ---
