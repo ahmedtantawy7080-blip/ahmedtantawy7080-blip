@@ -8,7 +8,7 @@
 
 - 💼 I'm an **AP Accountant** and a **Ganiour Front-End Engineer**.  
 - 📘 I’m always learning and exploring new technologies to improve my skills.  
-- 💬 Ask me about **Python, HTML, C++, AP Cycle, Returns, Matching, and Web Development**.  
+- 💬 Ask me about **Python, HTML, C++, AP Cycle,gavascript ,Returns, Matching, and Web Development**.  
 - ☕ Fun fact: I love coffee, and coding with coffee hits different 😄.
 
 ---
